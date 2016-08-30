@@ -1,1 +1,1 @@
-print "testing here Jenkins"
+print "Connecting to STB 1..."
